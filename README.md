@@ -1,7 +1,7 @@
 
-[App Inteface](https://s6.gifyu.com/images/Final-Cook9c0b49b93e225d80.gif)
+<h1>Food App using React and public API</h1>
 
-<img src="https://s6.gifyu.com/images/Final-Cook9c0b49b93e225d80.gif" />
+<img src="https://s6.gifyu.com/images/Final-Final-Cook.gif" alt="App Gif" />
 
 
 
