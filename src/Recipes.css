@@ -1,0 +1,26 @@
+.recipeContainer {
+  background: #fff;
+  max-width: 40rem;
+  width: 100%;
+  margin: 5rem auto;
+  padding: 20px 40px;
+  padding: 3rem 5rem;
+  border-radius: 5px;
+  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.12),
+    0 3px 14px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.recipeContainer:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 12px 20px rgba(0, 0, 0, 0.22);
+}
+
+.recipeContainer h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin: 0 0 2em;
+}
+
+.recipeContainer img {
+  width: 100%;
+}
